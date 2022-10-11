@@ -62,7 +62,7 @@ function tabla()
 
          if(j == 2 && i == 2)
             data.style.backgroundColor = "red"
-         else if(j == 3 && i == 5)
+         else if(j == 5 && i == 3)
             data.style.backgroundColor = "blue"
 
          row.appendChild(data)
